@@ -1,14 +1,18 @@
 # Chat App
 
-It is a web application that allows users to log in and chat with there friends.
+> It is a web application that allows users to log in and chat with their friends.
 
-At the backend, we are using Chatengine for chatting between the friends.
+> At the backend, we are using Chat Engine API to check the username and password entered by the user and to keep the records of chats. 
 
 ## Features
 
-- Users can see the rides in th city or state.
-- With the help of this user can see the nearest rides, upcoming rides and past rides.
-- In this there are filters in which user can select state and city easily.
+- Users can log in using the Username and Password.
+
+- With the help of this, users can chat with their friends.
+
+- In this user can send the messages and images in the chat.
+
+- In this app, only the admin can add the users at the backend.
 
 ## Technologies
 
@@ -16,9 +20,11 @@ At the backend, we are using Chatengine for chatting between the friends.
 
 - CSS3
 
-- REACTJS (FRONTEND LIBRARY)
+- ReactJS
 
-- NODEJS
+- NodeJS
+
+- Chat Engine
 
 ### Usage
 
@@ -30,3 +36,9 @@ npm install
 npm start 
 
 ```
+
+### Useful Resources-
+
+1. JavaScript Mastery - https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+
+2. Chat Engine- https://chatengine.io/
