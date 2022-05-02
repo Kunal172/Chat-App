@@ -14,6 +14,11 @@
 
 - In this app, only the admin can add the users at the backend.
 
+- For testing, you can use the following credentials:
+    - Username- ```Manav```
+  
+    - Password- ```manav```
+
 ## Technologies
 
 - HTML5
